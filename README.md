@@ -1,0 +1,2 @@
+# fsri-residential-gasburner-2016
+Repository of gas burner experiments conducted in single-story and two-story residential structures. This project was supported by Award No. 2015-DN-BX-K052, awarded by the National Institute of Justice, Office of Justice Programs, U.S. Department of Justice. The opinions, findings, and conclusions or recommendations expressed in this publication/program/exhibition are those of the author(s) and do not necessarily reflect those of the Department of Justice.
