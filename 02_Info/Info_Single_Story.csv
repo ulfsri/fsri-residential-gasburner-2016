@@ -1,6 +1,6 @@
 Test_Name,End_Time,Y Scale BDP,Y Scale TC,Y Scale PRESSURE,Ignition_Event,Start_Time
 Gas_Burner_1,1200,2.5,250,20,0,0
-Gas_Burner_1R2,1800,2.5,300,20,0,0
+Gas_Burner_1R2,1200,2.5,250,20,0,0
 Gas_Burner_1R3,1200,2.5,250,20,0,0
-Gas_Burner_2,1200,2.5,250,20,0,0
+Gas_Burner_2,1800,2.5,300,20,0,0
 Gas_Burner_3,1200,2.5,250,20,0,0
