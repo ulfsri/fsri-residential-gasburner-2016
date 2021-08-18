@@ -7,7 +7,7 @@ This project was supported by Award No. 2015-DN-BX-K052, awarded by the National
 The data directory is broken into two subdirectories, one for the single-story experiments (5 experiments) and one for the two-story experiments (8 experiments). More information on the structure of the included files and the corresponding experiments can be found here: [Data Details](01_Data/README.md) 
 
 ## 02_Info
-The info directory contains a plaintext __.csv__ channel list and info file for each structure. The channel list maps the individual channels to their respective measurement arrays. Dimensioned, instrumented floor plans can be found here [Instrumentation Details](02_Info/README.md). The channel list file also sets the channel labels and file names for graphs produced by the included scripts (03_Scripts). The info file is used to set the start and end times for graphs as well as the y-axis values for the respective measurement quantities.
+The info directory contains a plaintext __.csv__ channel list and info file for each structure. The channel list maps the individual channels to their respective measurement arrays. Dimensioned, instrumented floor plans can be found here: [Instrumentation Details](02_Info/README.md). The channel list file also sets the channel labels and file names for graphs produced by the included scripts (03_Scripts). The info file is used to set the start and end times for graphs as well as the y-axis values for the respective measurement quantities.
 
 ## 03_Scripts
 Python scripts are included to produce **.pdf** graphs for each of the measurement locations for each experiment. In conjunction with Matplotlib, Seaborn is used to style the graph. If seaborn is not already installed, it can be added by the following:
