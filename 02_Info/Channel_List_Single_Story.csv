@@ -1,0 +1,153 @@
+Channel_Name,Output,Type,Channel_Label,Group
+Window E Temperature 1.2 m Above Sill,Window E,Temperature,1.2 m Above Sill,Window_E_Temperature
+Window E Velocity 1.2 m Above Sill,Window E,Velocity,1.2 m Above Sill,Window_E_Velocity
+Window E Temperature 0.96 m Above Sill,Window E,Temperature,0.96 m Above Sill,Window_E_Temperature
+Window E Velocity 0.96 m Above Sill,Window E,Velocity,0.96 m Above Sill,Window_E_Velocity
+Window E Temperature 0.72 m Above Sill,Window E,Temperature,0.72 m Above Sill,Window_E_Temperature
+Window E Velocity 0.72 m Above Sill,Window E,Velocity,0.72 m Above Sill,Window_E_Velocity
+Window E Temperature 0.48 m Above Sill,Window E,Temperature,0.48 m Above Sill,Window_E_Temperature
+Window E Velocity 0.48 m Above Sill,Window E,Velocity,0.48 m Above Sill,Window_E_Velocity
+Window E Temperature 0.24 m Above Sill,Window E,Temperature,0.24 m Above Sill,Window_E_Temperature
+Window E Velocity 0.24 m Above Sill,Window E,Velocity,0.24 m Above Sill,Window_E_Velocity
+Bedroom 1 Pressure 0.3 m Below Ceiling,Bedroom 1,Pressure,0.3 m Below Ceiling,Bedroom_1_Pressure
+Bedroom 1 Pressure 1.2 m Below Ceiling,Bedroom 1,Pressure,1.2 m Below Ceiling,Bedroom_1_Pressure
+Bedroom 1 Pressure 2.1 m Below Ceiling,Bedroom 1,Pressure,2.1 m Below Ceiling,Bedroom_1_Pressure
+Bedroom 1 Temperature 0.02 m Below Ceiling,Bedroom 1,Temperature,0.02 m Below Ceiling,Bedroom_1_Temperature
+Bedroom 1 Temperature 0.3 m Below Ceiling,Bedroom 1,Temperature,0.3 m Below Ceiling,Bedroom_1_Temperature
+Bedroom 1 Temperature 0.6 m Below Ceiling,Bedroom 1,Temperature,0.6 m Below Ceiling,Bedroom_1_Temperature
+Bedroom 1 Temperature 0.9 m Below Ceiling,Bedroom 1,Temperature,0.9 m Below Ceiling,Bedroom_1_Temperature
+Bedroom 1 Temperature 1.2 m Below Ceiling,Bedroom 1,Temperature,1.2 m Below Ceiling,Bedroom_1_Temperature
+Bedroom 1 Temperature 1.5 m Below Ceiling,Bedroom 1,Temperature,1.5 m Below Ceiling,Bedroom_1_Temperature
+Bedroom 1 Temperature 1.8 m Below Ceiling,Bedroom 1,Temperature,1.8 m Below Ceiling,Bedroom_1_Temperature
+Bedroom 1 Temperature 2.1 m Below Ceiling,Bedroom 1,Temperature,2.1 m Below Ceiling,Bedroom_1_Temperature
+Window D Temperature 1.2 m Above Sill,Window D,Temperature,1.2 m Above Sill,Window_D_Temperature
+Window D Velocity 1.2 m Above Sill,Window D,Velocity,1.2 m Above Sill,Window_D_Velocity
+Window D Temperature 0.96 m Above Sill,Window D,Temperature,0.96 m Above Sill,Window_D_Temperature
+Window D Velocity 0.96 m Above Sill,Window D,Velocity,0.96 m Above Sill,Window_D_Velocity
+Window D Temperature 0.72 m Above Sill,Window D,Temperature,0.72 m Above Sill,Window_D_Temperature
+Window D Velocity 0.72 m Above Sill,Window D,Velocity,0.72 m Above Sill,Window_D_Velocity
+Window D Temperature 0.48 m Above Sill,Window D,Temperature,0.48 m Above Sill,Window_D_Temperature
+Window D Velocity 0.48 m Above Sill,Window D,Velocity,0.48 m Above Sill,Window_D_Velocity
+Window D Temperature 0.24 m Above Sill,Window D,Temperature,0.24 m Above Sill,Window_D_Temperature
+Window D Velocity 0.24 m Above Sill,Window D,Velocity,0.24 m Above Sill,Window_D_Velocity
+Bedroom 2 Pressure 0.3 m Below Ceiling,Bedroom 2,Pressure,0.3 m Below Ceiling,Bedroom_2_Pressure
+Bedroom 2 Pressure 1.2 m Below Ceiling,Bedroom 2,Pressure,1.2 m Below Ceiling,Bedroom_2_Pressure
+Bedroom 2 Pressure 2.1 m Below Ceiling,Bedroom 2,Pressure,2.1 m Below Ceiling,Bedroom_2_Pressure
+Bedroom 2 Temperature 0.02 m Below Ceiling,Bedroom 2,Temperature,0.02 m Below Ceiling,Bedroom_2_Temperature
+Bedroom 2 Temperature 0.3 m Below Ceiling,Bedroom 2,Temperature,0.3 m Below Ceiling,Bedroom_2_Temperature
+Bedroom 2 Temperature 0.6 m Below Ceiling,Bedroom 2,Temperature,0.6 m Below Ceiling,Bedroom_2_Temperature
+Bedroom 2 Temperature 0.9 m Below Ceiling,Bedroom 2,Temperature,0.9 m Below Ceiling,Bedroom_2_Temperature
+Bedroom 2 Temperature 1.2 m Below Ceiling,Bedroom 2,Temperature,1.2 m Below Ceiling,Bedroom_2_Temperature
+Bedroom 2 Temperature 1.5 m Below Ceiling,Bedroom 2,Temperature,1.5 m Below Ceiling,Bedroom_2_Temperature
+Bedroom 2 Temperature 1.8 m Below Ceiling,Bedroom 2,Temperature,1.8 m Below Ceiling,Bedroom_2_Temperature
+Bedroom 2 Temperature 2.1 m Below Ceiling,Bedroom 2,Temperature,2.1 m Below Ceiling,Bedroom_2_Temperature
+Window C Temperature 1.2 m Above Sill,Window C,Temperature,1.2 m Above Sill,Window_C_Temperature
+Window C Velocity 1.2 m Above Sill,Window C,Velocity,1.2 m Above Sill,Window_C_Velocity
+Window C Temperature 0.96 m Above Sill,Window C,Temperature,0.96 m Above Sill,Window_C_Temperature
+Window C Velocity 0.96 m Above Sill,Window C,Velocity,0.96 m Above Sill,Window_C_Velocity
+Window C Temperature 0.72 m Above Sill,Window C,Temperature,0.72 m Above Sill,Window_C_Temperature
+Window C Velocity 0.72 m Above Sill,Window C,Velocity,0.72 m Above Sill,Window_C_Velocity
+Window C Temperature 0.48 m Above Sill,Window C,Temperature,0.48 m Above Sill,Window_C_Temperature
+Window C Velocity 0.48 m Above Sill,Window C,Velocity,0.48 m Above Sill,Window_C_Velocity
+Window C Temperature 0.24 m Above Sill,Window C,Temperature,0.24 m Above Sill,Window_C_Temperature
+Window C Velocity 0.24 m Above Sill,Window C,Velocity,0.24 m Above Sill,Window_C_Velocity
+Bedroom 3 Pressure 0.3 m Below Ceiling,Bedroom 3,Pressure,0.3 m Below Ceiling,Bedroom_3_Pressure
+Bedroom 3 Pressure 1.2 m Below Ceiling,Bedroom 3,Pressure,1.2 m Below Ceiling,Bedroom_3_Pressure
+Bedroom 3 Pressure 2.1 m Below Ceiling,Bedroom 3,Pressure,2.1 m Below Ceiling,Bedroom_3_Pressure
+Bedroom 3 Temperature 0.02 m Below Ceiling,Bedroom 3,Temperature,0.02 m Below Ceiling,Bedroom_3_Temperature
+Bedroom 3 Temperature 0.3 m Below Ceiling,Bedroom 3,Temperature,0.3 m Below Ceiling,Bedroom_3_Temperature
+Bedroom 3 Temperature 0.6 m Below Ceiling,Bedroom 3,Temperature,0.6 m Below Ceiling,Bedroom_3_Temperature
+Bedroom 3 Temperature 0.9 m Below Ceiling,Bedroom 3,Temperature,0.9 m Below Ceiling,Bedroom_3_Temperature
+Bedroom 3 Temperature 1.2 m Below Ceiling,Bedroom 3,Temperature,1.2 m Below Ceiling,Bedroom_3_Temperature
+Bedroom 3 Temperature 1.5 m Below Ceiling,Bedroom 3,Temperature,1.5 m Below Ceiling,Bedroom_3_Temperature
+Bedroom 3 Temperature 1.8 m Below Ceiling,Bedroom 3,Temperature,1.8 m Below Ceiling,Bedroom_3_Temperature
+Bedroom 3 Temperature 2.1 m Below Ceiling,Bedroom 3,Temperature,2.1 m Below Ceiling,Bedroom_3_Temperature
+Hallway BDP Temperature 0.4 m Below Ceiling,Hallway BDP,Temperature,0.4 m Below Ceiling,Hallway_BDP_Temperature
+Hallway Velocity 0.4 m Below Ceiling,Hallway,Velocity,0.4 m Below Ceiling,Hallway_Velocity
+Hallway BDP Temperature 0.8 m Below Ceiling,Hallway BDP,Temperature,0.8 m Below Ceiling,Hallway_BDP_Temperature
+Hallway Velocity 0.8 m Below Ceiling,Hallway,Velocity,0.8 m Below Ceiling,Hallway_Velocity
+Hallway BDP Temperature 1.2 m Below Ceiling,Hallway BDP,Temperature,1.2 m Below Ceiling,Hallway_BDP_Temperature
+Hallway Velocity 1.2 m Below Ceiling,Hallway,Velocity,1.2 m Below Ceiling,Hallway_Velocity
+Hallway BDP Temperature 1.6 m Below Ceiling,Hallway BDP,Temperature,1.6 m Below Ceiling,Hallway_BDP_Temperature
+Hallway Velocity 1.6 m Below Ceiling,Hallway,Velocity,1.6 m Below Ceiling,Hallway_Velocity
+Hallway BDP Temperature 2.0 m Below Ceiling,Hallway BDP,Temperature,2.0 m Below Ceiling,Hallway_BDP_Temperature
+Hallway Velocity 2.0 m Below Ceiling,Hallway,Velocity,2.0 m Below Ceiling,Hallway_Velocity
+Living Room Pressure 0.3 m Below Ceiling,Living Room,Pressure,0.3 m Below Ceiling,Living_Room_Pressure
+Living Room Pressure 1.2 m Below Ceiling,Living Room,Pressure,1.2 m Below Ceiling,Living_Room_Pressure
+Living Room Pressure 2.1 m Below Ceiling,Living Room,Pressure,2.1 m Below Ceiling,Living_Room_Pressure
+Hallway Temperature 0.02 m Below Ceiling,Hallway,Temperature,0.02 m Below Ceiling,Hallway_Temperature
+Hallway Temperature 0.3 m Below Ceiling,Hallway,Temperature,0.3 m Below Ceiling,Hallway_Temperature
+Hallway Temperature 0.6 m Below Ceiling,Hallway,Temperature,0.6 m Below Ceiling,Hallway_Temperature
+Hallway Temperature 0.9 m Below Ceiling,Hallway,Temperature,0.9 m Below Ceiling,Hallway_Temperature
+Hallway Temperature 1.2 m Below Ceiling,Hallway,Temperature,1.2 m Below Ceiling,Hallway_Temperature
+Hallway Temperature 1.5 m Below Ceiling,Hallway,Temperature,1.5 m Below Ceiling,Hallway_Temperature
+Hallway Temperature 1.8 m Below Ceiling,Hallway,Temperature,1.8 m Below Ceiling,Hallway_Temperature
+Hallway Temperature 2.1 m Below Ceiling,Hallway,Temperature,2.1 m Below Ceiling,Hallway_Temperature
+Window F Temperature 1.2 m Above Sill,Window F,Temperature,1.2 m Above Sill,Window_F_Temperature
+Window F Velocity 1.2 m Above Sill,Window F,Velocity,1.2 m Above Sill,Window_F_Velocity
+Window F Temperature 0.96 m Above Sill,Window F,Temperature,0.96 m Above Sill,Window_F_Temperature
+Window F Velocity 0.96 m Above Sill,Window F,Velocity,0.96 m Above Sill,Window_F_Velocity
+Window F Temperature 0.72 m Above Sill,Window F,Temperature,0.72 m Above Sill,Window_F_Temperature
+Window F Velocity 0.72 m Above Sill,Window F,Velocity,0.72 m Above Sill,Window_F_Velocity
+Window F Temperature 0.48 m Above Sill,Window F,Temperature,0.48 m Above Sill,Window_F_Temperature
+Window F Velocity 0.48 m Above Sill,Window F,Velocity,0.48 m Above Sill,Window_F_Velocity
+Window F Temperature 0.24 m Above Sill,Window F,Temperature,0.24 m Above Sill,Window_F_Temperature
+Window F Velocity 0.24 m Above Sill,Window F,Velocity,0.24 m Above Sill,Window_F_Velocity
+Kitchen Pressure 0.3 m Below Ceiling,Kitchen,Pressure,0.3 m Below Ceiling,Kitchen_Pressure
+Kitchen Pressure 1.2 m Below Ceiling,Kitchen,Pressure,1.2 m Below Ceiling,Kitchen_Pressure
+Kitchen Pressure 2.1 m Below Ceiling,Kitchen,Pressure,2.1 m Below Ceiling,Kitchen_Pressure
+Living Room Temperature 0.02 m Below Ceiling,Living Room,Temperature,0.02 m Below Ceiling,Living_Room_Temperature
+Living Room Temperature 0.3 m Below Ceiling,Living Room,Temperature,0.3 m Below Ceiling,Living_Room_Temperature
+Living Room Temperature 0.6 m Below Ceiling,Living Room,Temperature,0.6 m Below Ceiling,Living_Room_Temperature
+Living Room Temperature 0.9 m Below Ceiling,Living Room,Temperature,0.9 m Below Ceiling,Living_Room_Temperature
+Living Room Temperature 1.2 m Below Ceiling,Living Room,Temperature,1.2 m Below Ceiling,Living_Room_Temperature
+Living Room Temperature 1.5 m Below Ceiling,Living Room,Temperature,1.5 m Below Ceiling,Living_Room_Temperature
+Living Room Temperature 1.8 m Below Ceiling,Living Room,Temperature,1.8 m Below Ceiling,Living_Room_Temperature
+Living Room Temperature 2.1 m Below Ceiling,Living Room,Temperature,2.1 m Below Ceiling,Living_Room_Temperature
+Front Door Temperature 1.71 m Above Floor,Front Door,Temperature,1.71 m Above Floor,Front_Door_Temperature
+Front Door Velocity 1.71 m Above Floor,Front Door,Velocity,1.71 m Above Floor,Front_Door_Velocity
+Front Door Temperature 1.37 m Above Floor,Front Door,Temperature,1.37 m Above Floor,Front_Door_Temperature
+Front Door Velocity 1.37 m Above Floor,Front Door,Velocity,1.37 m Above Floor,Front_Door_Velocity
+Front Door Temperature 1.03 m Above Floor,Front Door,Temperature,1.03 m Above Floor,Front_Door_Temperature
+Front Door Velocity 1.03 m Above Floor,Front Door,Velocity,1.03 m Above Floor,Front_Door_Velocity
+Front Door Temperature 0.68 m Above Floor,Front Door,Temperature,0.68 m Above Floor,Front_Door_Temperature
+Front Door Velocity 0.68 m Above Floor,Front Door,Velocity,0.68 m Above Floor,Front_Door_Velocity
+Front Door Temperature 0.34 m Above Floor,Front Door,Temperature,0.34 m Above Floor,Front_Door_Temperature
+Front Door Velocity 0.34 m Above Floor,Front Door,Velocity,0.34 m Above Floor,Front_Door_Velocity
+Dining Room Pressure 0.3 m Below Ceiling,Dining Room,Pressure,0.3 m Below Ceiling,Dining_Room_Pressure
+Dining Room Pressure 1.2 m Below Ceiling,Dining Room,Pressure,1.2 m Below Ceiling,Dining_Room_Pressure
+Dining Room Pressure 2.1 m Below Ceiling,Dining Room,Pressure,2.1 m Below Ceiling,Dining_Room_Pressure
+Kitchen Temperature 0.02 m Below Ceiling,Kitchen,Temperature,0.02 m Below Ceiling,Kitchen_Temperature
+Kitchen Temperature 0.3 m Below Ceiling,Kitchen,Temperature,0.3 m Below Ceiling,Kitchen_Temperature
+Kitchen Temperature 0.6 m Below Ceiling,Kitchen,Temperature,0.6 m Below Ceiling,Kitchen_Temperature
+Kitchen Temperature 0.9 m Below Ceiling,Kitchen,Temperature,0.9 m Below Ceiling,Kitchen_Temperature
+Kitchen Temperature 1.2 m Below Ceiling,Kitchen,Temperature,1.2 m Below Ceiling,Kitchen_Temperature
+Kitchen Temperature 1.5 m Below Ceiling,Kitchen,Temperature,1.5 m Below Ceiling,Kitchen_Temperature
+Kitchen Temperature 1.8 m Below Ceiling,Kitchen,Temperature,1.8 m Below Ceiling,Kitchen_Temperature
+Kitchen Temperature 2.1 m Below Ceiling,Kitchen,Temperature,2.1 m Below Ceiling,Kitchen_Temperature
+Window A Temperature 0.85 m Above Sill,Window A,Temperature,0.85 m Above Sill,Window_A_Temperature
+Window A Velocity 0.85 m Above Sill,Window A,Velocity,0.85 m Above Sill,Window_A_Velocity
+Window A Temperature 0.68 m Above Sill,Window A,Temperature,0.68 m Above Sill,Window_A_Temperature
+Window A Velocity 0.68 m Above Sill,Window A,Velocity,0.68 m Above Sill,Window_A_Velocity
+Window A Temperature 0.51 m Above Sill,Window A,Temperature,0.51 m Above Sill,Window_A_Temperature
+Window A Velocity 0.51 m Above Sill,Window A,Velocity,0.51 m Above Sill,Window_A_Velocity
+Window A Temperature 0.34 m Above Sill,Window A,Temperature,0.34 m Above Sill,Window_A_Temperature
+Window A Velocity 0.34 m Above Sill,Window A,Velocity,0.34 m Above Sill,Window_A_Velocity
+Window A Temperature 0.17 m Above Sill,Window A,Temperature,0.17 m Above Sill,Window_A_Temperature
+Window A Velocity 0.17 m Above Sill,Window A,Velocity,0.17 m Above Sill,Window_A_Velocity
+Breakfast Area Temperature 0.02 m Below Ceiling,Breakfast Area,Temperature,0.02 m Below Ceiling,Breakfast_Area_Temperature
+Breakfast Area Temperature 0.3 m Below Ceiling,Breakfast Area,Temperature,0.3 m Below Ceiling,Breakfast_Area_Temperature
+Breakfast Area Temperature 0.6 m Below Ceiling,Breakfast Area,Temperature,0.6 m Below Ceiling,Breakfast_Area_Temperature
+Breakfast Area Temperature 0.9 m Below Ceiling,Breakfast Area,Temperature,0.9 m Below Ceiling,Breakfast_Area_Temperature
+Breakfast Area Temperature 1.2 m Below Ceiling,Breakfast Area,Temperature,1.2 m Below Ceiling,Breakfast_Area_Temperature
+Breakfast Area Temperature 1.5 m Below Ceiling,Breakfast Area,Temperature,1.5 m Below Ceiling,Breakfast_Area_Temperature
+Breakfast Area Temperature 1.8 m Below Ceiling,Breakfast Area,Temperature,1.8 m Below Ceiling,Breakfast_Area_Temperature
+Breakfast Area Temperature 2.1 m Below Ceiling,Breakfast Area,Temperature,2.1 m Below Ceiling,Breakfast_Area_Temperature
+Dining Room Temperature 0.02 m Below Ceiling,Dining Room,Temperature,0.02 m Below Ceiling,Dining_Room_Temperature
+Dining Room Temperature 0.3 m Below Ceiling,Dining Room,Temperature,0.3 m Below Ceiling,Dining_Room_Temperature
+Dining Room Temperature 0.6 m Below Ceiling,Dining Room,Temperature,0.6 m Below Ceiling,Dining_Room_Temperature
+Dining Room Temperature 0.9 m Below Ceiling,Dining Room,Temperature,0.9 m Below Ceiling,Dining_Room_Temperature
+Dining Room Temperature 1.2 m Below Ceiling,Dining Room,Temperature,1.2 m Below Ceiling,Dining_Room_Temperature
+Dining Room Temperature 1.5 m Below Ceiling,Dining Room,Temperature,1.5 m Below Ceiling,Dining_Room_Temperature
+Dining Room Temperature 1.8 m Below Ceiling,Dining Room,Temperature,1.8 m Below Ceiling,Dining_Room_Temperature
+Dining Room Temperature 2.1 m Below Ceiling,Dining Room,Temperature,2.1 m Below Ceiling,Dining_Room_Temperature

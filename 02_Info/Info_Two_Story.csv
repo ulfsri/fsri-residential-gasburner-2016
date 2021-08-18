@@ -1,0 +1,9 @@
+Test_Name,Start_Time,End_Time,Y Scale BDP,Y Scale TC,Y Scale PRESSURE,Ignition_Event
+Gas_Burner_4,0,1600,5,300,20,0
+Gas_Burner_4R2,0,1800,5,300,20,0
+Gas_Burner_4R3,0,1800,5,300,20,0
+Gas_Burner_4R4,0,1800,5,300,20,0
+Gas_Burner_5,0,1600,5,300,20,0
+Gas_Burner_5R2,0,1800,5,300,20,0
+Gas_Burner_6,0,1600,5,300,20,0
+Gas_Burner_6R2,0,1800,5,300,20,0
