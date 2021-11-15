@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "McKinnon"
+  given-names: "Mark"
+  orcid: "https://orcid.org/0000-0002-3344-4957"
+- family-names: "Weinschenk"
+  given-names: "Craig"
+  orcid: "https://orcid.org/0000-0002-2782-6692"
+- family-names: "Madrzykowski"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0003-1829-0491"
+- family-names: "Stakes"
+  given-names: "Keith"
+  orcid: "https://orcid.org/0000-0002-9395-5708"
+title: "2016 Residential Gas Burner Experimental Data"
+version: 1.0
+doi: https://zenodo.org/record/5703080#.YZKBYr3MK50
+date-released: 2021-11-15
+url: "https://github.com/ulfsri/fsri-residential-gasburner-2016/tree/v1.0"
