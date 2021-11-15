@@ -1,4 +1,7 @@
 # fsri-residential-gasburner-2016
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5703080.svg)](https://zenodo.org/record/5703080#.YZKBYr3MK50)
+
+
 This repository contains the data and supporting files from natural gas burner experiments conducted in both single-story and two-story residential structures. This work was part of a larger series of experiments that studied the impact of ventilation on fire patterns. Data from those experiments can be explored here: [Impact of Fixed Ventilation on Fire Damage Patterns](https://fireinvestigation.fsri.org/)
 
 This project was supported by Award No. 2015-DN-BX-K052, awarded by the National Institute of Justice, Office of Justice Programs, U.S. Department of Justice. The opinions, findings, and conclusions or recommendations expressed in this publication/program/exhibition are those of the author(s) and do not necessarily reflect those of the Department of Justice.
